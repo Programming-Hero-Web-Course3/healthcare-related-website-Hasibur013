@@ -7,10 +7,9 @@ function App() {
   return (
     <div className="App">
       <BrowserRouter>
-      <Navbar></Navbar>
       <Switch>
         <Route>
-          
+        <Navbar></Navbar>
         </Route>
       </Switch>
       </BrowserRouter>
