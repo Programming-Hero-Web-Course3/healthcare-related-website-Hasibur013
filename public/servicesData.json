@@ -1,0 +1,50 @@
+[
+    {
+        "id": 1,
+        "service": "Phamacy Care",
+        "drName": "Dr. Mahmuda Akhtar",
+        "description": "A professional pharmacy service is defined as an action or set of actions undertaken in or organised by a pharmacy, delivered by a pharmacist or other health practitioner, who applies their specialised health knowledge personally or via an intermediary, with a patient/client, population or other health professional",
+        "img": "https://i.ibb.co/jy8J8v5/pharmaceutical.jpg",
+        "drImg": "https://images.theconversation.com/files/304957/original/file-20191203-66986-im7o5.jpg?ixlib=rb-1.1.0&q=45&auto=format&w=1200&h=1200.0&fit=crop"
+    },
+    {
+        "id": 2,
+        "service": "Physical Therapy",
+        "drName": "Dr. Abdul Mannan",
+        "description": "Physical therapy, also known as physiotherapy, is one of the allied health professions. It is provided by physical therapists who promote, maintain, or restore health through physical examination, diagnosis, prognosis, patient education, physical intervention, rehabilitation, disease prevention and health promotion.",
+        "img": "https://i.ibb.co/CWsTxfc/therapy.jpg",
+        "drImg": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSOU3Jf0uekwSKiAzUnmWo0JJe0w2r-CpsYpw&usqp=CAU"
+    },
+    {
+        "id": 3,
+        "service": "Dental Care",
+        "drName": "Dr. AKM Hakim",
+        "description": "Dental care is the maintenance of healthy teeth and may refer to: Oral hygiene, the practice of keeping the mouth and teeth clean in order to prevent dental disorders. Dentistry, the professional care of teeth, including professional oral hygiene and dental surgery.",
+        "img": "https://i.ibb.co/wJn1kbP/dental.png",
+        "drImg": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTgut-XrUTj4kq8azPG0BcV3bwfaDrOvAEicg&usqp=CAU"
+    },
+    {
+        "id": 4,
+        "service": "Mental Care",
+        "drName": "Dr. Kudrot Ali",
+        "description": "Mental health includes our emotional, psychological, and social well-being. It affects how we think, feel, and act. It also helps determine how we handle stress, relate to others, and make healthy choices.",
+        "img": "https://i.ibb.co/PFB0xXy/mental.jpg",
+        "drImg": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTUUQOk3DsB01Y8AE4u2qiKcP4TKlPUBm_PBA&usqp=CAU"
+    },
+    {
+        "id": 5,
+        "service": "Prenatal Care",
+        "drName": "Dr. James Roy",
+        "description": "Prenatal care is the health care you get while you are pregnant. Take care of yourself and your baby by: Getting early prenatal care. If you know you're pregnant, or think you might be, call your doctor to schedule a visit.",
+        "img": "https://i.ibb.co/v1JMNh6/baby.jpg",
+        "drImg": "https://familydoctor.org/wp-content/uploads/2018/02/41808433_l.jpg"
+    },
+    {
+        "id": 6,
+        "service": "Preventive Care",
+        "drName": "Dr. Adrita Khan",
+        "description": "Preventive care helps detect or prevent serious diseases and medical problems before they can become major. Annual check-ups, immunizations, and flu shots, as well as certain tests and screenings, are a few examples of preventive care.",
+        "img": "https://i.ibb.co/BLNJzJ1/preventive.png",
+        "drImg": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSRyTEnOCOSxvjWX7k_QJZ_wbV100xg2SAhTA&usqp=CAU"
+    }
+]
