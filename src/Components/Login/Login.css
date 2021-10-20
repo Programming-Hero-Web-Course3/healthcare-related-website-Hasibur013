@@ -1,0 +1,13 @@
+.login-form{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin: 50px 0;
+ }
+ .login-form p{
+     color: red;
+ }
+ .submit{
+     columns: red;
+     font-weight: 800;
+ }

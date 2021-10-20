@@ -1,10 +1,15 @@
 
 import React from 'react';
 import { Card, Col, Button } from 'react-bootstrap';
+import { useHistory } from 'react-router';
 import './Service.css';
 
 const Service = (props) => {
     const {service,img}=props.sv;
+    const history=useHistory();
+    const handledetails=()=>{
+        history.push('/details')
+    }
     return (
         <div  id="services">
             <Col>
@@ -15,7 +20,7 @@ const Service = (props) => {
                         <Card.Text>
                         </Card.Text>
                     </Card.Body>
-                    <Button variant="primary" size="lg">Details</Button>
+                    <Button onClick={()=>handledetails()} variant="primary" size="lg">Details</Button>
                 </Card>
             </Col>
         </div>
