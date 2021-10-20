@@ -21,7 +21,7 @@ const Header = () => {
                         { user.email?
                             <Button onClick={logOut} variant="primary">Logout</Button>
                             :
-                            <Nav.Link as={Link} eventKey={2} to="/login" className="text-danger">
+                            <Nav.Link as={Link} to="/login" className="text-danger">
                             Login
                             </Nav.Link>
                         }
